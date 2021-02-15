@@ -1,0 +1,61 @@
+﻿  main.cpp
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(107): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(119): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(177): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(201): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(248): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(255): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(335): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(337): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(339): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(340): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(341): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(342): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(343): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(345): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(346): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(347): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(348): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(349): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(350): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(351): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(352): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(353): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(354): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(506): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(696): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(702): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(708): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(714): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(722): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(730): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(732): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(750): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(752): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(770): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(772): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(790): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(792): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(810): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(812): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(930): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(932): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(950): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(952): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(970): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(972): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(990): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(992): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(1010): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(1012): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(1139): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(1183): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(1185): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(1209): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(1255): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(1256): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\darkp\source\repos\testgame\testgame\main.cpp(1257): warning C4305: '=': truncation from 'double' to 'float'
+  testgame.vcxproj -> C:\Users\darkp\source\repos\testgame\x64\Debug\testgame.exe
+  testgame.vcxproj -> C:\Users\darkp\source\repos\testgame\x64\Debug\testgame.pdb (Partial PDB)
